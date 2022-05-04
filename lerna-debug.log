@@ -1,0 +1,16 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'C:\\work\\tools\\nvm-noinstall\\nodejs\\node_modules\\lerna\\cli.js',
+0 silly argv   pkg: 'underscore--scope=package2'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath C:\work\git_space\dcf\lerna-study\lerna-repo
+3 info versioning independent
+4 error Error: Invalid tag name "underscore--scope=package2": Tags may not have any characters that encodeURIComponent encodes.
+4 error     at invalidTagName (C:\work\tools\nvm-noinstall\v12.16.1\node_modules\lerna\node_modules\npm-package-arg\npa.js:89:15)
+4 error     at fromRegistry (C:\work\tools\nvm-noinstall\v12.16.1\node_modules\lerna\node_modules\npm-package-arg\npa.js:343:13)
+4 error     at resolve (C:\work\tools\nvm-noinstall\v12.16.1\node_modules\lerna\node_modules\npm-package-arg\npa.js:80:12)
+4 error     at npa (C:\work\tools\nvm-noinstall\v12.16.1\node_modules\lerna\node_modules\npm-package-arg\npa.js:48:10)
+4 error     at AddCommand.initialize (C:\work\tools\nvm-noinstall\v12.16.1\node_modules\lerna\node_modules\@lerna\add\index.js:39:17)
