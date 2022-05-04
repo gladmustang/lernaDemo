@@ -6,6 +6,6 @@
   "dependencies": {
     "fp": "^0.1.0",
     "moment": "^2.29.3",
-    "package4": "^1.0.1"
+    "package4": "1.0.1"
   }
 }
