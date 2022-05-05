@@ -1,4 +1,12 @@
-node_modules/*
-
-**/node_modules
 lerna-debug.log
+
+*.cmd
+.idea/
+bower_components/
+**/node_modules/
+logs
+.DS_Store
+.env-dev
+.vscode
+.project
+**/npm-debug.log
