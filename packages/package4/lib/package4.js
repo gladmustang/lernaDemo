@@ -4,4 +4,5 @@ module.exports = package4;
 
 function package4() {
     // TODO
+    console.log("jaha")
 }
