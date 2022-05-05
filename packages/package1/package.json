@@ -1,10 +1,10 @@
 {
   "name": "package1",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "package2": "^1.0.5",
+    "package2": "^1.0.6",
     "package4": "^1.0.2"
   }
 }
