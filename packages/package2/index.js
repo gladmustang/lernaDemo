@@ -5,4 +5,7 @@ console.log("in dev 2"),
 
 console.log("after change config")
 
+
 let a = 1;
+
+let dev  = 2
