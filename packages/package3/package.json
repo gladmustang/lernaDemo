@@ -1,11 +1,11 @@
 {
   "name": "package3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "fp": "^0.1.0",
     "moment": "^2.29.3",
-    "package4": "1.0.1"
+    "package4": "^1.0.2"
   }
 }
